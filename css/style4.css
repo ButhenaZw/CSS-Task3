@@ -1,0 +1,30 @@
+.main-container{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+}
+div{
+    color: white;
+    font-size: 17px;
+    width: 690px;
+    height: 320px;
+    border-radius: 10px;
+    line-height: 25px;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.div1{
+    background-color: #4d7298;
+    border:2px solid #90b7c3;
+}
+.div2{
+    background-color: #4d7298;
+    border:2px solid #90b7c3;
+}
+.div3{
+    background-color: #4d7298;
+    border:2px solid #90b7c3;
+}

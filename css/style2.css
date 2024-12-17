@@ -1,0 +1,32 @@
+.mr-h1{
+    font-weight: bold;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.container{
+display: flex;
+justify-content: space-evenly;
+flex-direction:row-reverse;
+gap: 20px;
+
+}
+nav a{
+    text-decoration: none;
+    color: black;
+    
+} 
+.navbar{
+border: 1px solid black;
+width: 100%;
+height: 50px;
+display: flex;
+
+justify-content: space-between;
+}
+img{
+    width: 60px;
+    height: 50px;
+}
+.mr4{
+    margin: 15px;
+}
